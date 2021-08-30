@@ -1,0 +1,60 @@
+{
+    "servicios": [
+        {
+            "id": 1,
+            "titulo": "GDLWEBCAMP",
+            "imagen": "gdlwebcamp.jpg",
+            "descripcion": "HTML, CSS, JS",
+            "hrefPage": "https://daniel0re.github.io/GDLWEBCAMP/",
+            "hrefRepo": "https://github.com/daniel0re/GDLWEBCAMP"
+        },
+        {
+            "id": 2,
+            "titulo": "Agencia de Viajes",
+            "imagen": "agenciaviajes.jpg",
+            "descripcion": "Node, Pug, Express",
+            "hrefPage": "https://agencia-viajes-daniel0re.herokuapp.com/",
+            "hrefRepo": "https://github.com/daniel0re/agenciaViajes"
+        },
+        {
+            "id": 3,
+            "titulo": "Blog de Café",
+            "imagen": "blogdecafe.jpg",
+            "descripcion": "HTML, CSS, JS",
+            "hrefPage": "https://daniel0re.github.io/BlogDeCafe/",
+            "hrefRepo": "https://github.com/daniel0re/BlogDeCafe"
+        },
+        {
+            "id": 4,
+            "titulo": "Festival Música",
+            "imagen": "festivalmusica.jpg",
+            "descripcion": "HTML, CSS, JS",
+            "hrefPage": "https://daniel0re.github.io/FestivalMusica/",
+            "hrefRepo": "https://github.com/daniel0re/FestivalMusica"
+        },
+        {
+            "id": 5,
+            "titulo": "Bienes Raices",
+            "imagen": "bienesraices.jpg",
+            "descripcion": "HTML, CSS, JS",
+            "hrefPage": "https://daniel0re.github.io/BienesRaices/",
+            "hrefRepo": "https://github.com/daniel0re/BienesRaices"
+        },
+        {
+            "id": 6,
+            "titulo": "Peluqueria",
+            "imagen": "appsalon.jpg",
+            "descripcion": "HTML, CSS, JS",
+            "hrefPage": "https://daniel0re.github.io/Peluqueria/",
+            "hrefRepo": "https://github.com/daniel0re/Peluqueria"
+        },
+        {
+            "id": 7,
+            "titulo": "Frontend Store",
+            "imagen": "frontendstore.jpg",
+            "descripcion": "HTML, CSS",
+            "hrefPage": "https://daniel0re.github.io/FrontEndStore/",
+            "hrefRepo": "https://github.com/daniel0re/FrontEndStore"
+        }
+    ]
+}
