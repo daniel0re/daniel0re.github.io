@@ -1,14 +1,6 @@
 {
     "servicios": [
         {
-            "id": 1,
-            "titulo": "GDLWEBCAMP",
-            "imagen": "gdlwebcamp.jpg",
-            "descripcion": "HTML, CSS, JS",
-            "hrefPage": "https://daniel0re.github.io/GDLWEBCAMP/",
-            "hrefRepo": "https://github.com/daniel0re/GDLWEBCAMP"
-        },
-        {
             "id": 2,
             "titulo": "Agencia de Viajes",
             "imagen": "agenciaviajes.jpg",
@@ -17,20 +9,12 @@
             "hrefRepo": "https://github.com/daniel0re/agenciaViajes"
         },
         {
-            "id": 3,
-            "titulo": "Blog de Café",
-            "imagen": "blogdecafe.jpg",
-            "descripcion": "HTML, CSS, JS",
-            "hrefPage": "https://daniel0re.github.io/BlogDeCafe/",
-            "hrefRepo": "https://github.com/daniel0re/BlogDeCafe"
-        },
-        {
-            "id": 4,
-            "titulo": "Festival Música",
-            "imagen": "festivalmusica.jpg",
-            "descripcion": "HTML, CSS, JS",
-            "hrefPage": "https://daniel0re.github.io/FestivalMusica/",
-            "hrefRepo": "https://github.com/daniel0re/FestivalMusica"
+            "id": 10,
+            "titulo": "Cotizador de Autos",
+            "imagen": "cotizador-react.jpg",
+            "descripcion": "React",
+            "hrefPage": "https://cotizadorautos-daniel0re.netlify.app/",
+            "hrefRepo": "https://github.com/daniel0re/cotizador-react"
         },
         {
             "id": 5,
@@ -41,12 +25,68 @@
             "hrefRepo": "https://github.com/daniel0re/BienesRaices"
         },
         {
+            "id": 9,
+            "titulo": "Prestamos",
+            "imagen": "prestamosreact.jpg",
+            "descripcion": "React",
+            "hrefPage": "https://prestamos-daniel0re.netlify.app/",
+            "hrefRepo": "https://github.com/daniel0re/codePrestamos"
+        },
+        {
+            "id": 3,
+            "titulo": "Blog de Café",
+            "imagen": "blogdecafe.jpg",
+            "descripcion": "HTML, CSS, JS",
+            "hrefPage": "https://daniel0re.github.io/BlogDeCafe/",
+            "hrefRepo": "https://github.com/daniel0re/BlogDeCafe"
+        },
+        {
+            "id": 12,
+            "titulo": "Presupuesto",
+            "imagen": "presupuesto-react.jpg",
+            "descripcion": "React",
+            "hrefPage": "https://presupuesto-daniel0re.netlify.app/",
+            "hrefRepo": "https://github.com/daniel0re/presupuesto-react"
+        },
+        {
+            "id": 1,
+            "titulo": "GDLWEBCAMP",
+            "imagen": "gdlwebcamp.jpg",
+            "descripcion": "HTML, CSS, JS",
+            "hrefPage": "https://daniel0re.github.io/GDLWEBCAMP/",
+            "hrefRepo": "https://github.com/daniel0re/GDLWEBCAMP"
+        },
+        {
+            "id": 11,
+            "titulo": "Pacientes de Veterinaria",
+            "imagen": "pacientes-react.jpg",
+            "descripcion": "React",
+            "hrefPage": "https://pacientes-daniel0re.netlify.app/",
+            "hrefRepo": "https://github.com/daniel0re/pacientesVeterinaria"
+        },
+        {
+            "id": 4,
+            "titulo": "Festival Música",
+            "imagen": "festivalmusica.jpg",
+            "descripcion": "HTML, CSS, JS",
+            "hrefPage": "https://daniel0re.github.io/FestivalMusica/",
+            "hrefRepo": "https://github.com/daniel0re/FestivalMusica"
+        },
+        {
             "id": 6,
             "titulo": "Peluqueria",
             "imagen": "appsalon.jpg",
             "descripcion": "HTML, CSS, JS",
             "hrefPage": "https://daniel0re.github.io/Peluqueria/",
             "hrefRepo": "https://github.com/daniel0re/Peluqueria"
+        },
+        {
+            "id": 8,
+            "titulo": "Carrito de Compras",
+            "imagen": "carritols.jpg",
+            "descripcion": "HTML, CSS, JS",
+            "hrefPage": "https://daniel0re.github.io/CarritolocalStorage/",
+            "hrefRepo": "https://github.com/daniel0re/CarritolocalStorage"
         },
         {
             "id": 7,
@@ -58,3 +98,4 @@
         }
     ]
 }
+

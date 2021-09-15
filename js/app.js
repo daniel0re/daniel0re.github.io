@@ -22,7 +22,7 @@ function mostrarHTML(datos) {
       `<div class="portfolio__item">
           <picture>
             <source type="image/jpeg" srcset="./projects/${imagen}" />
-            <img class="portfolio__img" alt="portfolio item" />
+            <img loading="lazy" class="portfolio__img" alt="portfolio item" />
           </picture>
         <div class="portfolio__description">
           <h3 class="portfolio__description--title">${titulo}</h3>

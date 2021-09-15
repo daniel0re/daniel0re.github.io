@@ -15,7 +15,6 @@
   --green:#008744;
   --blueReact: #61DBFB;
 }
-
 a {
   text-decoration: none;
   color: var(--white);
@@ -47,7 +46,7 @@ section {
   max-width: 1200px;
   justify-content: inherit;
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 0px 20px;
 }
 
 .navbar {
@@ -170,10 +169,11 @@ section {
 }
 
 .about__description {
-  text-align: left;
+  text-align: justify;
   color: var(--grey);
   padding-right: 80px;
   line-height: 40px;
+
 }
 
 .about__summary {
@@ -203,7 +203,7 @@ section {
 }
 
 .skill__item {
-  font-size: 65px;
+  font-size: 70px;
   color: var(--grey);
   padding: 35px;
   transition: all 0.3s;
@@ -379,17 +379,17 @@ section {
   color: var(--blue);
 }
 
-
-
+.button--right {
+  display: flex;
+  justify-content: end;
+}
 
 .button--cta {
-
   background: var(--blue);
   color: var(--white);
   padding: 5px 30px;
-  display: inline-block;
-  align-self: center;
-  margin: 20px auto;
+  /* margin: 20px auto; */
+  margin: 20px 0 0 0;
   font: bold;
   border-radius: 5px;
 }
@@ -430,6 +430,16 @@ section {
 .fa-linkedin-in{
   color:#0e76a8  ;
 }
+.fa-node {
+  color: #82c91e;
+}
+.fa-php {
+  color: #7377ad;
+}
+.fa-java {
+  color: #0581bf;
+}
+
 
 .contact__item i {
   font-size: 50px;
