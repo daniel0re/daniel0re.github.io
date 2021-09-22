@@ -4,9 +4,17 @@
             "id": 2,
             "titulo": "Agencia de Viajes",
             "imagen": "agenciaviajes.jpg",
-            "descripcion": "Node, Pug, Express",
+            "descripcion": "Node, Pug, Express, MySQL",
             "hrefPage": "https://agencia-viajes-daniel0re.herokuapp.com/",
             "hrefRepo": "https://github.com/daniel0re/agenciaViajes"
+        },
+        {
+            "id": 5,
+            "titulo": "Bienes Raices",
+            "imagen": "bienesraices.jpg",
+            "descripcion": "PHP, MySQL, HTML, CSS, JS",
+            "hrefPage": "https://bienesraicesdaniel0re.herokuapp.com/",
+            "hrefRepo": "https://github.com/daniel0re/bienes-raices-php"
         },
         {
             "id": 10,
@@ -17,20 +25,20 @@
             "hrefRepo": "https://github.com/daniel0re/cotizador-react"
         },
         {
-            "id": 5,
-            "titulo": "Bienes Raices",
-            "imagen": "bienesraices.jpg",
-            "descripcion": "HTML, CSS, JS",
-            "hrefPage": "https://daniel0re.github.io/BienesRaices/",
-            "hrefRepo": "https://github.com/daniel0re/BienesRaices"
-        },
-        {
             "id": 9,
             "titulo": "Prestamos",
             "imagen": "prestamosreact.jpg",
             "descripcion": "React",
             "hrefPage": "https://prestamos-daniel0re.netlify.app/",
             "hrefRepo": "https://github.com/daniel0re/codePrestamos"
+        },
+        {
+            "id": 7,
+            "titulo": "App Music Letras",
+            "imagen": "appmusic-react.jpg",
+            "descripcion": "React",
+            "hrefPage": "https://musiclyrics-daniel0re.netlify.app/",
+            "hrefRepo": "https://github.com/daniel0re/letras-canciones-react"
         },
         {
             "id": 3,
@@ -87,14 +95,6 @@
             "descripcion": "HTML, CSS, JS",
             "hrefPage": "https://daniel0re.github.io/CarritolocalStorage/",
             "hrefRepo": "https://github.com/daniel0re/CarritolocalStorage"
-        },
-        {
-            "id": 7,
-            "titulo": "Frontend Store",
-            "imagen": "frontendstore.jpg",
-            "descripcion": "HTML, CSS",
-            "hrefPage": "https://daniel0re.github.io/FrontEndStore/",
-            "hrefRepo": "https://github.com/daniel0re/FrontEndStore"
         }
     ]
 }
